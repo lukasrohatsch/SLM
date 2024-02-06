@@ -6,3 +6,7 @@ Some further description goes here ...
 ## Subheader
 
 Some more text.
+
+## Subheader 2
+
+Added details
