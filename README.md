@@ -9,4 +9,4 @@ Some more text.
 
 ## Subheader 2
 
-Added details
+Changed details
