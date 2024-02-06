@@ -15,3 +15,10 @@ Changed details
 ### Quick-Test
 
 ### Hmm new line here
+
+New content here:
+- abc
+- def
+  - etc.
+
+And another here as hotfix.
